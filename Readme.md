@@ -4,7 +4,9 @@ Welcome to ChronoDB the database for ChronoEmu / ProjectChronos based on Ascent.
 # Setup 
 Step 1: In the ChronoDB directory open up the SQL folder and unrar chrono_world.
 
-Step 2: After doing that run the DatabaseTool.bat and enter your database information
+Step 2: After doing that run the DatabaseTool.bat and enter your database information.
+
+Step 3: Apply any updates in chrono_world_updates, chrono_logon_updates, chrono_char_updates
 
 # Links & Thanks 
 * Original ChronoEmu Repo: https://github.com/Swater96/ChronoEmu
